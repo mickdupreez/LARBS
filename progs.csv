@@ -1,5 +1,5 @@
 #TAG,NAME IN REPO (or git url),PURPOSE (should be a verb phrase to sound right while installing)
-,i3-gaps,"is the main graphical user interface and window manager."
+A,i3-gaps-rounded-git,"is the main graphical user interface and window manager."
 ,xorg-server,"is the graphical server."
 ,xorg-xwininfo,"allows querying information about windows."
 ,xorg-xinit,"starts the graphical server."
@@ -29,8 +29,8 @@ V,dbus,"facilitates inter-process communication."
 ,ffmpeg,"can record and splice video and audio on the command line."
 ,gnome-keyring,"serves as the system keyring."
 A,gtk-theme-arc-gruvbox-git,"gives the dark GTK theme used in LARBS."
-,neovim,"a tidier vim with some useful features"
-,i3blocks,"is the status bar."
+A,neovim-youcompleteme-core-git,"a tidier vim with some useful features"
+,polybar,"is the status bar."
 ,mpd,"is a lightweight music daemon."
 ,mpc,"is a terminal interface for mpd."
 ,mpv,"is the patrician's choice video player."
@@ -80,3 +80,13 @@ G,https://github.com/lukesmithxyz/dmenu.git,"runs commands and provides a UI for
 G,https://github.com/lukesmithxyz/st.git,"is my custom build of suckless's terminal emulator."
 G,https://github.com/lukesmithxyz/dwm.git,"is the window manager."
 ,slock,"allows you to lock your computer, and quickly unlock with your password."
+A,nerd-fonts-complete,
+A,awesome-terminal-fonts,
+A,awesome-terminal-fonts-patched,
+A,dell-bios-fan-control,
+A,i8kutils-git,
+A,cava,
+A,gotop,
+A,gtop,
+A,htop-vim-temperature,
+
