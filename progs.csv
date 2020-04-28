@@ -73,7 +73,6 @@ V,xsetroot,"sets status bar and other X properies."
 V,xset,"allows speeding up the X rate."
 G,https://github.com/lukesmithxyz/dmenu.git,"runs commands and provides a UI for selection. "
 ,slock,"allows you to lock your computer, and quickly unlock with your password."
-A,nerd-fonts-complete,
 A,awesome-terminal-fonts,
 A,awesome-terminal-fonts-patched,
 A,dell-bios-fan-control,
